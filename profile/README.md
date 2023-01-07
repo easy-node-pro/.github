@@ -12,4 +12,4 @@ If you're interested in hiring us get in contact on our Twitter or Discord, avai
 - [Patrick](https://github.com/patrickmogul)  
 
 ## Team Stats
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmogul&count_private=true&show_icons=true&layout=compact&theme=onedark)](https://github.com/patrickmogul)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmogul&count_private=true&show_icons=true&layout=compact&theme=chartreuse-dark)](https://github.com/patrickmogul)
