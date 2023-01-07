@@ -1,7 +1,8 @@
 # Hello, it's a beautiful day
 
+[![Github](https://img.shields.io/github/followers/easy-node-pro?label=Follow&style=social)](https://github.com/easy-node-pro)<br />
+
 Current software projects
-[![Github](https://img.shields.io/github/followers/patrickmogul?label=Follow&style=social)](https://github.com/patrickmogul)<br />
 
 <div align="center">
 <a href="https://github.com/easy-node-pro/findora-toolbox">
