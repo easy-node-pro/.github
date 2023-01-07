@@ -7,3 +7,6 @@ Current software projects
 - Many others, check them out today!
 
 If you're interested in hiring us get in contact on our Twitter or Discord, available [here](https://easynode.pro/links).
+
+## Team
+- [Patrick](https://github.com/patrickmogul)
